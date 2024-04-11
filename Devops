@@ -1,0 +1,28 @@
+Diagnóstico Cultural (C de CALMS):
+
+Na parte de testes, a aquipe de operação e desenvolvimento devem se conversar pois, alem dos teste terem que ser antes do deploy em um ambiente de teste. Isso pode gerar atrito entre as equipes, pois o time de operação trata direto com o cliente e as chances de ter erro por fazer em produções são grandes. Fazendo os testes em um ambiente teste manuel e usando programas de teste para ter mais exatidao 
+
+
+2. Automação (A de CALMS):
+
+Utilizar uma ferramenta de teste em vez de alguem que fica manualmente fazendo os testes. utilizar ambiente de teste e validar antes de fazer o deploy para produção.
+
+
+
+3. Mensuração e Compartilhamento de Conhecimento (M e S de CALMS):
+
+Com isso, teremos menos chances de erros pois estaremos em um ambiente de teste, configurando o sistema.
+Elabora uma documentação de como utilizar o sistema de testes para que nao fique em apenas uma pessoa
+
+
+4. Três Maneiras:
+    - Primeira Maneira (Acelerar o Fluxo):
+    O time de desenvolvimento covnersar com o time de operações informando sobre os updates, deploys e testes antes de fazer o procedimento e deixando alinhando com o time de operação para nao terem surpresas
+
+   
+    - Segunda Maneira (Ampliar o Feedback):
+    Com isso, o time de operação consegue dar feedbacks mais positivos pois estão cientes das ações do time de operações que estão diretamente com o cliente, informando o que melhoru e o que pode ser melhorado 
+
+     
+    - Terceira Maneira (Experimentar e Aprender):
+    Como falando, iriam fazer o deploy em produção, com isso, certeza que teria mais erros, bugs e falhas e conseguiriamos ver o que precisaria melhorar mas como boa pratica, o correto deveria fazer isso em um ambiente de teste
